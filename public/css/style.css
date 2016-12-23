@@ -1,0 +1,117 @@
+/*TEMPLATE*/
+body{
+	width: 100%;
+	overflow-x: hidden;
+	background: linear-gradient(#ffffff, #D3D8E8);
+	padding-bottom: 17%;
+   	margin: 0;
+	padding: 0;
+}
+
+.section{
+	height: 100vh !important;
+}
+/*TEMPLATE END*/
+
+/*NAVIGATION*/
+nav{
+	background: linear-gradient(#4e69a2, #3b5998 50%) !important;
+	height: 10% !important;
+}
+
+.brand-logo h1{
+	font-size: 39px;
+	font-weight: bold;
+}
+
+.brand-logo h1 #title{
+	font-weight: italic;
+	display: inline;
+	font-weight: normal;
+}
+
+.nav-wrapper{
+	width: 90%;
+	margin: 0 auto;
+}
+/*END OF NAVIGATION*/
+
+/*MAIN CONTENT*/
+main{
+	min-height: 70%;
+   	position:relative;
+	width: 90%;
+	margin: 0 auto;
+}
+
+main h2{
+	font-size: 36px;
+	font-style: inherit;
+}
+
+.btn{
+	background-color: #4267b2 !important;
+    border-color: #29487d !important;
+	margin-left: 39%;
+	font-size: 12px;
+	padding-top: 0 !important;
+}
+
+.input-field{
+	width: 49%;
+}
+
+#map {
+    height: 400px;
+	width: 100%;
+}
+
+#table-wrapper {
+  position:relative;
+}
+
+#table-scroll {
+height: 400px;
+  overflow:auto;  
+  margin-top:20px;
+}
+
+#table-wrapper table thead th .text {
+  position:absolute;   
+  z-index:2;
+}
+
+.modal{
+	width: 50% !important;
+}
+
+.modalImg{
+	width: 100%;
+}
+
+.modalIcons{
+	height: 1em;
+	margin-right: 15px;
+}
+
+.modal-footer .btn-flat{
+	background-color: #4267b2 !important;
+    border-color: #29487d !important;
+	color: #ffffff;
+}
+/*END OF MAIN CONTENT*/
+
+/*FOOTER*/
+footer{
+	height: 15%;
+	background-color: #fff;
+   	bottom:0;
+}
+
+footer .container{
+	width: 68%;
+	margin: 0 auto;
+	padding: 2%;
+	text-align: center;
+}
+/*END OF FOOTER*/
