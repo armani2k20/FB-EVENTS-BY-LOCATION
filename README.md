@@ -26,7 +26,8 @@ prototype makes use of third party frameworks and modules e.g. express, body-par
 
 Clone the repository here:
 
-`git clone https://github.com/tobilg/facebook-events-by-location-core.git`
+`git clone https://github.com/armani2k20/FB-EVENTS-BY-LOCATION.git`
+
 
 ## Usage
 
