@@ -6,7 +6,7 @@ var options = {
     // Optional depending on the providers 
     httpAdapter: 'https', // Default 
     //google geo api key
-    apiKey: 'AIzaSyDGIj8WZWEA-DVXMELipIxW2IJmGGB9qVk',
+    apiKey: 'APPKEY',
     // 'gpx', 'string', ... 
     formatter: null
 };
